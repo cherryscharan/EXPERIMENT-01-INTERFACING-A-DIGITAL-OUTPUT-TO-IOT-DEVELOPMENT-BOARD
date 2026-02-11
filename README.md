@@ -161,7 +161,8 @@ int main(void)
 
 ## OUTPUT
 <img width="954" height="670" alt="image" src="https://github.com/user-attachments/assets/f01fa2d8-70c5-4777-99a5-d936ca87ae91" />
-![Uploading image.png…]()
+
+
 
 
 
