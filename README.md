@@ -122,6 +122,7 @@ int main(void)
 }
 ```
 ## OUTPUT
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a99cbd0e-8654-41e3-86f0-f5270699bbfb" />
 
 <img width="989" height="744" alt="image" src="https://github.com/user-attachments/assets/7e4bf62a-6bdf-4e17-8059-78d55e5e60cd" />
 
@@ -160,6 +161,8 @@ int main(void)
 ```
 
 ## OUTPUT
+<img width="975" height="634" alt="image" src="https://github.com/user-attachments/assets/96567346-1511-4313-8827-c045107fd877" />
+
 <img width="954" height="670" alt="image" src="https://github.com/user-attachments/assets/f01fa2d8-70c5-4777-99a5-d936ca87ae91" />
 
 
